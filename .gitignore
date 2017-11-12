@@ -1,0 +1,8 @@
+*.txt
+*.xip
+*.gz
+log/*.log
+log/*.log[0-9]
+assests/photoshop/
+assests/vidoes/
+!assests/videos/your_*.mp4
